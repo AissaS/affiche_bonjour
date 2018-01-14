@@ -1,1 +1,1 @@
-print("bonjour, je m'appelle Toto"
+print("bonjour, je m'appelle {}".format(nom-afficher))
